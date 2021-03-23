@@ -2,3 +2,5 @@ git init
 git branch arquivo
 git add .
 git checkout branch
+git pull
+git push
