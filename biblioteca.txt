@@ -4,3 +4,5 @@ git add .
 git checkout branch
 git pull
 git push
+git commit
+git clone
