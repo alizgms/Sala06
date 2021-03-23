@@ -1,0 +1,13 @@
+git init
+git branch arquivo
+git add .
+git checkout branch
+git pull
+git push
+git commit
+git clone
+git merge main
+git reset
+git log (Mostra o histórico de commits)
+git mv file.txt newfile.txt (Renomeia o arquivo)
+git mv file.txt img/file.txt (Move o arquivo)
